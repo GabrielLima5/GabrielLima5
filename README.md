@@ -2,10 +2,10 @@
 Olá! Meu nome é Gabriel, tenho 16 anos e moro em São Bernardo do Campo/SP. Estudo desenvolvimento web desde novembro de 2022 e sou um jovem sempre disposto a aprender coisas novas.
 Atualmente, tenho sólidos conhecimentos em HTML e CSS, e estou aprendendo JavaScript. Sou apaixonado por tecnologia e programação, sempre procurando realizar projetos que demonstrem minhas habilidades, para praticar e continuar aprendendo cada vez mais. 
 
-## Tecnologias que utilizo
 <p align=center>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  </p>
 <div align="center">
@@ -19,11 +19,14 @@ Atualmente, tenho sólidos conhecimentos em HTML e CSS, e estou aprendendo JavaS
  ## Principais repositórios
  
 <div align="center">
-<a style="padding: 4px" href="https://github.com/GabrielLima5/TelaDeLoginEdgar">
-  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielLima5&repo=TelaDeLoginEdgar&theme=nord"/>
+<a style="padding: 4px" href="https://github.com/GabrielLima5/login-screen-edgar">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielLima5&repo=login-screen-edgar&theme=nord"/>
 </a>
-<a style="padding: 4px" href="https://github.com/GabrielLima5/CatalogoDeRoupasEdgar">
-  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielLima5&repo=CatalogoDeRoupasEdgar&theme=nord"/>
+<a style="padding: 4px" href="https://github.com/GabrielLima5/clothing-catalog-edgar">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielLima5&repo=clothing-catalog-edgar&theme=nord"/>
+</a>
+<a style="padding: 4px" href="https://github.com/GabrielLima5/login-screen-EGM">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielLima5&repo=login-screen-EGM&theme=nord"/>
 </a>
 </div>
 <u><p align="center"><sub><a href="https://github.com/GabrielLima5?tab=repositories"><b>Acesse todos os meus repositórios aqui</b></a></sub></p></u>
