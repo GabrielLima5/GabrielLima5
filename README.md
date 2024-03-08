@@ -1,5 +1,5 @@
 # Gabriel Lima
-Olá! Meu nome é Gabriel, tenho 17 anos e moro em São Bernardo do Campo/SP. Estudo desenvolvimento web front-end desde novembro de 2022 e sou um jovem sempre disposto a aprender coisas novas.
+Olá! Meu nome é Gabriel, tenho 18 anos e moro em São Bernardo do Campo/SP. Estudo desenvolvimento web front-end desde novembro de 2022 e sou um jovem sempre disposto a aprender coisas novas.
 Sou apaixonado por tecnologia e programação, sempre procurando realizar projetos que demonstrem minhas habilidades, para praticar e continuar aprendendo cada vez mais. 
 
 <p align=center>
